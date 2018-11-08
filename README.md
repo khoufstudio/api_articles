@@ -1,11 +1,11 @@
 # api_article
 
 Penjelasan:
-api_article adalah api yang digunakan untuk kebutuhan membuat, menampilkan, mengedit dan menghapus artikel. 
+api_article adalah api yang digunakan untuk kebutuhan membuat, menampilkan, mengedit dan menghapus artikel. api ini dibuat menggunakan framework ExpressJS dan database MySQL.
 
 Cara menggunakan API ini:
 1. Clone/download repo ini
-2. Buat MYSQL database dengan nama db_node kemudian import article.sql
+2. Buat MYSQL database dengan nama db_node kemudian import articles.sql
 3. Edit db_conn.js dengan mengganti host, user, password, sesuai dengan setting MYSQL anda
 4. jalankan api dengan cara masuk ke folder yang telah anda download melalui terminal/cmd kemudian ketik node index.js (pastikan nodejs telah terinstall)
 5. Anda bisa menambah data, membaca data yang telah tersimpan, mengedit data dan menghapus dengan konfigurasi berikut
