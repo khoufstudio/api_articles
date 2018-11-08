@@ -1,6 +1,6 @@
 # api_article
 
-api_article adalah api yang digunakan untuk kebutuhan membuat, menampilkan, mengedit dan menghapus artikel. api ini dibuat menggunakan framework ExpressJS dan database MySQL.
+api_article adalah API yang digunakan untuk kebutuhan membuat, menampilkan, mengedit dan menghapus artikel. API ini dibuat menggunakan framework ExpressJS dan database MySQL.
 
 Cara menggunakan API ini:
 1. Clone/download repo ini
